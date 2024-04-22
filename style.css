@@ -1,9 +1,9 @@
 .a{
     border:10px;
     width: 100vw;
-    border-color: black;
+    border-color:red;
     border-style: solid;
-    background-color: beige;
+    
 }
 .b{
     width:95vw;
